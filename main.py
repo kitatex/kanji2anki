@@ -97,6 +97,12 @@ df = df.merge(df_rtk, on="kanji", how="left")
 df = df.sort_values(by="id_5th_ed")
 df = df.rename(columns={"id_5th_ed": "rtk_index"})
 df["rtk_index"] = df["rtk_index"].fillna(9999).astype(int).astype(str).str.zfill(4)
+
+# 10. Add svg names
+df["stroke_svg"] = df["kanji"].apply(
+    lambda x: f'<img src="{hex(ord(x))[2:].zfill(5)}.svg">'
+)
+
 df = df[
     [
         "kanji",
@@ -105,11 +111,11 @@ df = df[
         "story",
         "frequency_rank",
         "rtk_index",
+        "stroke_svg",
         "anki_tag",
     ]
 ]
 
 print(df.head(5))
 
-# Finally, export your perfectly ordered Anki file
 df.to_csv("anki_import_ready.txt", index=False, sep="\t", encoding="utf-8-sig")
