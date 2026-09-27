@@ -2199,3 +2199,842 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 羞,3029,2198,humiliate,humiliate,,シュウ,すすめ.る; はじ.る; は.ずかしい,11,
 卯,2041,2199,sign of the hare,sign of the hare,blown eggs,ボウ; モウ,う,5,N1
 巳,2042,2200,sign of the snake,sign of the snake,mosaic with bit missing,シ,み,3,N1
+此,2043,2201,this here,this here,,シ,これ; この; ここ,6,
+柴,2044,2202,brushwood,brushwood,,サイ; シ,しば,10,
+些,2046,2203,whit,whit,,サ; シャ,ち.と; ち.っと; いささか,8,
+砦,2045,2204,fort,fort,,サイ,とりで,11,
+髭,2047,2205,beard,beard,,シ,ひげ; くちひげ,16,
+禽,2049,2206,fowl,fowl,,キン,とり; とりこ,13,
+檎,2050,2207,apple,apple,,キン; ゴン; ゴ,,17,
+憐,2051,2208,sympathize with,sympathize with,,レン,あわ.れむ; あわ.れ,16,
+燐,2052,2209,phosphorus,phosphorus,,リン,,17,
+麟,2053,2210,camelopard,camelopard,,リン,,24,N1
+鱗,2054,2211,scaled,scaled,,リン,うろこ; こけ; こけら,24,
+奄,2055,2212,encompassing,encompassing,,エン,おお.う; たちまち,8,
+庵,2056,2213,hermitage,hermitage,,アン,いおり; いお,11,
+掩,2057,2214,shrouded,shrouded,,エン,おお.う,11,
+悛,2059,2215,make amends,make amends,,シュン; セン,あらた.める,10,
+駿,2060,2216,steed,steed,,シュン; スン,すぐ.れる,17,N1
+峻,2061,2217,steep,steep,,シュン,けわ.しい; たか.い,10,N1
+竣,2062,2218,complete a job,complete a job,,ドウ; シュン,わらわ; わらべ; おわ.る,12,N1
+犀,2069,2219,rhinoceros,rhinoceros,,サイ; セイ,,12,
+皐,2070,2220,lunar month,lunar month,,コウ,さつき,11,N1
+畷,2072,2221,rice-field footpath,rice-field footpath,,テツ; テイ; セイ,なわて,13,
+綴,2073,2222,mend,mend,,テイ; テツ; テチ; ゲツ,と.じる; つづ.る; つづり; すみ.やか,14,
+鎧,2076,2223,suit of armor,suit of armor,,カイ; ガイ,よろ.う; よろい,18,
+凱,2077,2224,triumph,triumph,,ガイ; カイ,かちどき; やわらぐ,12,N1
+呑,2080,2225,quaff,quaff,,トン; ドン,の.む,7,
+韮,2081,2226,leek,leek,,キュウ; ク,にら,12,
+籤,2082,2227,lottery,lottery,,セン,くじ; かずとり,23,
+懺,2083,2228,penitential,penitential,,ザン; サン,くい.る,20,
+芻,2084,2229,hay,hay,,スウ; シュウ; ス,まぐさ,10,
+雛,2085,2230,chick,chick,,スウ; ス; ジュ,ひな; ひよこ,18,N1
+趨,2086,2231,scurry,scurry,,スウ; ソク,しゅ; おもむ.く; はし.る,17,
+尤,2087,2232,understandably,understandably,,ユウ,もっと.も; とが.める,4,
+厖,2089,2233,immense,immense,,ボウ,おおき.い,9,
+或,2091,2234,a  (a certain),a  (a certain),,ワク; コク; イキ,あ.る; あるい; あるいは,8,
+兎,2093,2235,rabbit,rabbit,,ト; ツ,うさぎ,8,
+也,2094,2236,est,est,,ヤ; エ,なり; か; また,3,N1
+巴,2096,2237,comma-design,comma-design,,ハ,ともえ; うずまき,4,N1
+疋,2098,2238,critters,critters,,ヒキ; ショ; ソ; ヒツ,あし,5,
+菫,2099,2239,violet,violet,,キン,すみれ,11,N1
+曼,2100,2240,mandala,mandala,,マン; バン,なが.い,11,
+云,2102,2241,quote,quote,,ウン,い.う; ここに,4,
+莫,2105,2242,shalt,shalt,,バク; ボ; マク; モ; ナイ,くれ; なか.れ; なし,10,
+而,3006,2243,and then,and then,,ジ; ニ,しこ.うして; しか.して; しか.も; しか.れども; すなわち; なんじ; しかるに,6,
+倭,2106,2244,Yamato,Yamato,,ワ; イ,やまと; したが.う,10,N1
+侠,2107,2245,chivalry,chivalry,,キョウ,きゃん; おとこだて,8,
+倦,2108,2246,fed up,fed up,,ケン,あき.る; あぐ.む; あぐ.ねる; う.む; つか.れる,11,
+俄,2110,2247,abrupt,abrupt,,ガ,にわか,9,
+佃,2111,2248,work a field,work a field,,テン; デン,つくだ,7,
+仔,2113,2249,animal offspring,animal offspring,,シ,こ; た.える,5,
+仇,2114,2250,foe,foe,,キュウ; グ,あだ; あた; かたき; つれあい,4,
+伽,2115,2251,look after,look after,,カ; ガ; キャ; ギャ,とぎ,7,N1
+儲,2118,2252,make a profit,make a profit,,チョ,もう.ける; もう.かる; もうけ; たくわ.える,17,
+僑,2120,2253,emigrant,emigrant,,キョウ,,14,
+倶,2124,2254,mate,mate,,グ; ク,とも.に,10,
+侃,2123,2255,integrity,forthright,,カン,つよ.い,8,N1
+偲,2129,2256,memorial,memorial,,サイ; シ,しの.ぶ,11,N1
+侭,2125,2257,as is,as is,,ジン,まま; ことごとく,8,
+脩,2130,2258,dried meat,dried meat,,シュウ,おさ.める; なが.い; ほじし,11,N1
+倅,2131,2259,my son,my son,,サイ; ソツ; ソチ,せがれ,10,
+做,2132,2260,make do,make do,,サ; サク; ソ,な.す; つく.る,11,
+冴,2134,2261,sharp,sharp,,ゴ; コ,さ.える; こお.る; ひ.える,7,N1
+凋,2135,2262,wilt,wilt,,チョウ,しぼ.む,10,
+凌,2136,2263,pull through,pull through,,リョウ,しの.ぐ,10,N1
+凛,2138,2264,stately,stately,,リン,きびし.い,15,
+凧,2139,2265,kite,kite,,,いかのぼり; たこ,5,
+凪,2140,2266,lull,lull,,,なぎ; な.ぐ,6,N1
+夙,2141,2267,earlybird,earlybird,,シュク,つとに; はやい,6,
+鳳,2142,2268,phoenix,phoenix,,ホウ; フウ,,14,N1
+剽,,2269,,menace,,ヒョウ,おびや.かす; さす,13,
+劉,2143,2270,slaughter,slaughter,,リュウ; ル,ころ.す,15,
+剃,2146,2271,shave,shave,,テイ,まい; そ.る; す.る,9,
+厭,2149,2272,despondent,despondent,,エン; オン; アン; オウ; ユウ; ヨウ,いや; あ.きる; いと.う; おさ.える,14,
+雁,2150,2273,wild goose,wild goose,,ガン,かり; かりがね,12,
+贋,2151,2274,counterfeit,counterfeit,,ガン,にせ,19,
+厨,2152,2275,kitchen,kitchen,,シュウ; ズ; チュ; チュウ,くりや,12,
+仄,2153,2276,insinuate,insinuate,,ソク,ほの.か; ほの-; ほの.めかす; ほの.めく; かたむ.く,4,
+哨,2154,2277,scout,scout,,ショウ,みはり,10,
+咎,2156,2278,reprehend,reprehend,,キュウ; コウ,とが.める; とが,8,
+囁,2157,2279,whisper,whisper,,ショウ,ささや.く,21,
+喋,2158,2280,chatter,chatter,,チョウ; トウ,しゃべ.る; ついば.む,12,
+嘩,2160,2281,quarrel,quarrel,,カ; ケ,かまびす.しい,13,
+噂,2161,2282,gossip,gossip,,ソン,うわさ,15,
+咳,2162,2283,cough,cough,,カイ; ガイ,せ.く; しわぶ.く; せき; しわぶき,9,
+喧,2163,2284,clamor,clamor,,ケン,やかま.しい; かまびす.しい,12,
+叩,2166,2285,bash,bash,,コウ,たた.く; はた.く; すぎ,5,
+嘘,2167,2286,fib,fib,,キョ; コ,うそ; ふ.く,14,
+啄,2168,2287,peck at,peck at,,タク; ツク; トク,ついば.む; つつ.く,10,N1
+吠,2170,2288,barking,barking,,ハイ; ベイ,ほえ.る; ほ.える,7,
+吊,2171,2289,dangle,dangle,,チョウ,つ.る; つる.す,6,
+噛,2172,2290,chew,chew,,コウ; ゴウ,か.む; か.じる,15,
+叶,2173,2291,within my ability,within my ability,,キョウ,かな.える; かな.う,5,N1
+吻,2174,2292,sides of the mouth,sides of the mouth,,フン; ブン,くちわき; くちさき,7,
+吃,2175,2293,stammer,stammer,,キツ,ども.る,6,
+噺,2176,2294,spin a tale,spin a tale,,,はなし,16,
+噌,2177,2295,miso,miso,,ソウ; ショウ; ソ,かまびす.しい,14,
+邑,2180,2296,city walls,city walls,,ユウ,むら,7,N1
+呆,2181,2297,dumbfounded,dumbfounded,,ホウ,ほけ.る; ぼ.ける; あき.れる; おろか,7,
+喰,2182,2298,ingest,ingest,,,く.う; く.らう,12,
+埴,2183,2299,clay,clay,,ショク,はに; へな,11,
+坤,2184,2300,authochthonous,authochthonous,,コン,つち; ひつじさる,8,
+壕,2186,2301,dugout,dugout,,コウ; ゴウ,ほり,17,
+垢,2187,2302,blemish,blemish,,コウ; ク,あか; はじ,9,
+坦,2188,2303,flat,flat,,タン,たいら,8,
+埠,2189,2304,wharf,wharf,,フ; ホ,つか; はとば,11,
+堰,2191,2305,dam,dam,,エン,せき; せ.く,12,
+堵,2192,2306,railing,railing,,ト,かき,11,
+嬰,2193,2307,suckling infant,suckling infant,,エイ,ふ.れる; みどりご; あかご,17,
+姦,2194,2308,violate,violate,,カン; ケン,かん.する; かしま.しい; みだら,9,
+婢,2196,2309,handmaiden,handmaiden,,ヒ,はしため,11,
+婉,2197,2310,well finished,well finished,,エン,うつく.しい; したが.う,11,
+娼,2198,2311,harlot,harlot,,ショウ,あそびめ,11,
+妓,2199,2312,courtesan,courtesan,,ギ; キ,わざおぎ; うたいめ,7,
+娃,2200,2313,fair,fair,,ア; アイ; ワ,うつく.しい,9,
+姪,2201,2314,niece,niece,,テツ; チツ; ジチ; イツ; イチ,めい; おい,9,
+嬬,2203,2315,mistress,mistress,,ジュ,よわ.い,17,
+姥,2204,2316,aged woman,aged woman,,ボ; モ,うば,9,
+姑,2205,2317,mother-in-law,mother-in-law,,コ,しゅうとめ; しゅうと; おば; しばらく,8,
+姐,2206,2318,young miss,young miss,,ソ; シャ,あね; ねえさん,8,
+嬉,2207,2319,overjoyed,overjoyed,,キ,うれ.しい; たの.しむ,15,N1
+孕,2208,2320,expecting,expecting,,ヨウ,はら.む,5,
+孜,2209,2321,assiduous,assiduous,,シ,つと.める,7,
+宥,2210,2322,soothe,soothe,,ユウ,なだ.める; ゆる.す,9,N1
+寓,2211,2323,imply,imply,,グウ; グ; ドウ,ぐう.する; かこつ.ける; よ.せる; よ.る; かりずまい,12,
+宏,2212,2324,extensive,extensive,,コウ,ひろ.い,7,N1
+牢,2213,2325,jail,jail,,ロウ,かた.い; ひとや,7,
+宋,2215,2326,Sung dynasty,Sung dynasty,,ソウ,,7,
+宍,2216,2327,venison,venison,,ニク; ジク,しし,7,
+屠,2217,2328,butchering,butchering,,ト; チョ,ほふ.る,11,
+屁,2218,2329,fart,fart,,ヒ,へ; おなら,7,
+屑,2219,2330,rubbish,rubbish,,セツ,くず; いさぎよ.い,10,
+屡,2221,2331,frequently,frequently,,ル,しばしば,12,
+屍,2222,2332,corpse,corpse,,シ,しかばね,9,
+屏,2223,2333,folding screen,folding screen,,ヘイ; ビョウ,おお.う; しりぞ.く; びょう.ぶ,9,
+嵩,2224,2334,high-reaching,high-reaching,,スウ; シュウ,かさ; かさ.む; たか.い,13,N1
+崚,2225,2335,rugged mountains,rugged mountains,,リョウ,,11,N1
+嶺,2228,2336,mountaintop,mountaintop,,レイ; リョウ,みね,17,N1
+嵌,2229,2337,fit into,fit into,,カン,は.める; は.まる; あな,12,
+帖,2231,2338,quire,quire,,チョウ; ジョウ,かきもの,8,
+幡,2232,2339,banner,banner,,マン; ハン; バン; ホン,はた,15,
+幟,2233,2340,pennant,pennant,,シ,のぼり,15,
+庖,2234,2341,cleaver,cleaver,,ホウ,くりや,8,
+廓,2235,2342,licensed quarters,licensed quarters,,カク,くるわ; とりで,14,
+庇,2236,2343,overhang,overhang,,ヒ,ひさし; おお.う; かば.う,7,
+鷹,2237,2344,hawk,hawk,,ヨウ; オウ,たか,24,N1
+庄,2238,2345,shire,shire,,ショウ; ソ; ソウ; ホウ,,6,N1
+廟,2239,2346,tomb sanctuary,tomb sanctuary,,ビョウ; ミョウ,たまや; みたまや; やしろ,15,
+彊,2240,2347,strengthen,strengthen,,キョウ; ゴウ,つよ.い,16,
+弛,2242,2348,loosen,loosen,,チ; シ,たる.む; たる.める; たゆ.む; ゆる.む; ゆる.み,6,
+粥,2243,2349,rice gruel,rice gruel,,イク; シュク; ジュク,かゆ; かい; ひさ.ぐ,12,
+挽,2244,2350,lathe,lathe,,バン,ひ.く,10,
+撞,2245,2351,bump into,bump into,,ドウ; トウ; シュ,つ.く,15,
+扮,2246,2352,disguise,disguise,,フン; ハン; ヘン,ふん.する; やつ.す; よそお.う,7,
+捏,,2353,,fabrication,,ネツ; テツ; ネチ,こ.ねる; ね.る; つく.ねる,10,
+掴,2249,2354,clutch,clutch,,カク,つか.む; つか.まえる; つか.まる,11,
+捺,2250,2355,impress,impress,,ナツ; ダツ,さ.す; お.す,11,N1
+掻,2252,2356,scratch,scratch,,ソウ,か.く,11,
+撰,2253,2357,assortment,assortment,,サン; セン,せん.する; えら.む; えら.ぶ,15,
+揃,2255,2358,muster,muster,,セン,そろ.える; そろ.う; そろ.い; き.る,12,
+捌,2256,2359,deal with,deal with,,ハツ; ハチ; ベツ,さば.く; さば.ける; は.け,10,
+按,2259,2360,press down on,press down on,,アン,おさ.える; しら.べる,9,
+播,2262,2361,disseminate,disseminate,,ハ; バン; ハン,ま.く,15,
+揖,2263,2362,interpretation,collect,,イツ; ユ; シュウ; ユウ,,12,
+托,2264,2363,receptable,receptacle,,タク,たく.する; たの.む,6,
+捧,2265,2364,dedicate,devote,,ホウ,ささ.げる,11,
+撚,2266,2365,twirl,twirl,,ネン,よ.る; よ.れる; より; ひね.る,15,
+挺,2267,2366,counter for tools,counter for tools,,チョウ; テイ,ぬ.く,10,
+擾,2268,2367,commotion,commotion,,ジョウ,みだ.れる; みだ.す; わずら.わしい,18,
+撫,2270,2368,petting,petting,,ブ; フ,な.でる,15,
+撒,2271,2369,sprinkle,sprinkle,,サン; サツ,ま.く,15,
+擢,2272,2370,outstanding,outstanding,,テキ; タク,ぬ.く; ぬき.んでる,17,
+摺,2258,2371,rubbing,rubbing,,ショウ; シュウ; ロウ,す.る; ひだ,14,
+捷,2273,2372,spoils,spoils,,ショウ; ソウ,はや.い,11,N1
+抉,2274,2373,gouge out,gouge out,,ケツ,えぐ.る; こじ.る; くじ.る,7,
+怯,2275,2374,wince,wince,,キョウ; コウ,ひる.む; おびえ.る; おじる; おび.える; おそ.れる,8,
+惟,2276,2375,ponder,ponder,,イ; ユイ,おも.んみる; これ; おも.うに,11,N1
+惚,2277,2376,infatuation,infatuation,,コツ,ほけ.る; ぼ.ける; ほ.れる,11,
+怜,2278,2377,quickwitted,quickwitted,,レイ; レン; リョウ,あわ.れむ; さと.い,8,N1
+惇,2279,2378,considerate,considerate,,シュン; ジュン; トン,あつ.い,11,N1
+恰,2281,2379,as if,as if,,コウ; カッ; チョウ; キョウ,あたか.も,9,
+恢,2282,2380,enlarge,enlarge,,カイ; ケ,ひろ.い,9,
+悌,2283,2381,respect for elders,respect for elders,,テイ; ダイ,,10,N1
+澪,2285,2382,canal,canal,,レイ,みお,16,N1
+洸,2286,2383,glistening,glistening,,コウ,,9,N1
+滉,2287,2384,bounding main,bounding main,,コウ,ひろ.い,13,N1
+漱,2288,2385,gargle,gargle,,ソウ; シュウ; ス,くちすす.ぐ; くちそそ.ぐ; うがい; すす.ぐ,14,N1
+洲,2289,2386,continent,continent,,シュウ; ス,しま,9,N1
+洵,2290,2387,swirling waters,swirling waters,,ジュン; シュン,の.ぶ; まこと.に,9,N1
+滲,2291,2388,seep,seep,,シン,し.みる; にじ.む,14,
+洒,2292,2389,rinse,rinse,,シャ; ソン; サイ; セン; セイ,すす.ぐ; あら.う,9,
+沐,2293,2390,douse,douse,,モク,もく.する; あら.う,7,
+泪,2294,2391,teardrops,teardrops,,ルイ; レイ,なみだ,8,
+渾,2295,2392,gushing,gushing,,コン,すべ.て; にご.る,12,
+涜,2297,2393,blaspheme,blaspheme,,トク; トウ,けが.す; けが.れ; みぞ,10,
+梁,2299,2394,roofbeam,roofbeam,,リョウ,はり; うつばり; うちばり; やな; はし,11,
+澱,2300,2395,sediment,sediment,,デン; テン,おり; ど.ろ; よど.み; よど.む,16,
+洛,2302,2396,old Kyoto,old Kyoto,,ラク,,9,
+汝,2303,2397,thou,thou,,ジョ,なんじ; なれ; い; うぬ; いまし; し; しゃ; な; なむち; まし; みまし,6,
+漉,2304,2398,filter,filter,,ロク,こ.し; こ.す; す.く,14,
+瀕,2305,2399,on the verge of,on the verge of,,ヒン,ほとり,20,
+濠,2306,2400,moat,moat,,ゴウ; コウ,ほり,17,
+溌,2307,2401,spray,spray,,ハツ,も.る; とびち.る; そそ.ぐ,12,
+湊,2309,2402,port,port,,ソウ,みなと; あつ.まる,12,
+淋,2310,2403,solitude,solitude,,リン,さび.しい; さみ.しい,11,
+浩,2311,2404,abounding,abounding,,コウ,おおき.い; ひろ.い,10,N1
+汀,2312,2405,water’s edge,water’s edge,,テイ,みぎわ; なぎさ,5,
+鴻,2313,2406,large goose,large goose,,コウ; ゴウ,おおとり; ひしくい; おおがり,17,N1
+潅,2314,2407,souse,souse,,カン,そそ.ぐ,14,
+溢,2315,2408,brimming,brimming,,イツ,こぼ.れる; あふ.れる; み.ちる,13,
+湛,2317,2409,inundate,inundate,,タン; チン; ジン; セン,しず.む; たた.える,12,
+淳,2318,2410,immaculate,immaculate,,ジュン; シュン,あつ.い,11,N1
+渥,2320,2411,moisten,moisten,,アク,あつ.い; うるお.う,12,N1
+灘,2321,2412,rough seas,rough seas,,タン; ダン,なだ; せ,21,
+汲,2322,2413,draw water,draw water,,キュウ,く.む,7,
+瀞,2323,2414,river pool,river pool,,セイ; ショウ; ジュウ,とろ; きよ.い,17,
+溜,2324,2415,cumulation,cumulation,,リュウ,た.まる; たま.る; た.める; したた.る; たまり; ため,13,
+渕,2325,2416,abyss,abyss,,エン; カク; コウ,ふち; かた.い; はなわ,11,
+沌,2326,2417,chaos,chaos,,トン,くら.い,7,
+濾,2328,2418,strainer,strainer,,ロ; リョ,こ.す,18,
+濡,2329,2419,drench,drench,,ジュ; ニュ,ぬれ.る; ぬら.す; ぬ.れる; ぬ.らす; うるお.い; うるお.う; うるお.す,17,
+淀,2330,2420,eddy,eddy,,テン; デン,よど.む,11,
+涅,2331,2421,fabrication,black soil,,ネツ; デツ,そ.める,10,
+斧,2333,2422,hatchet,hatchet,,フ,おの,8,
+爺,2334,2423,grandpa,grandpa,,ヤ,じい; じじい; おやじ; じじ; ちち,13,
+猾,2335,2424,sly,sly,,カツ,わるがしこ.い,13,
+猥,2336,2425,indecent,indecent,,ワイ,みだ.ら; みだり.に,12,
+狡,2337,2426,cunning,cunning,,コウ; キョウ,ずる.い; こす.い; わるがしこ.い,9,
+狸,2338,2427,racoon dog,racoon dog,,リ; ライ,たぬき,10,
+狼,2339,2428,wolf,wolf,,ロウ,おおかみ,10,
+狽,2340,2429,flustered,flustered,,ケン; バイ; ハイ,,10,
+狗,2341,2430,pup,pup,,ク; コウ,いぬ,8,
+狐,2342,2431,fox,fox,,コ,きつね,9,
+狛,2343,2432,a-un,a-un,,ハク,こま,8,
+獅,2345,2433,lion,lion,,シ,しし,13,
+狒,2346,2434,baboon,baboon,,ヒ,ひひ,8,
+莨,2347,2435,tobacco,tobacco,,ロウ,たばこ,10,
+茉,2348,2436,jasmine,jasmine,,マツ; バツ; マ,,8,N1
+莉,2349,2437,hawthorn,hawthorn,,リ; ライ; レイ,,10,N1
+苺,2350,2438,strawberry,strawberry,,バイ; マイ,いちご,8,
+萩,2351,2439,bush clover,bush clover,,シュウ,はぎ,12,N1
+藝,2352,2440,technique (old),technique (old),,ゲイ; ウン,う.える; のり; わざ,18,
+薙,2353,2441,trim,trim,,テイ; チ,な.ぐ; なぎ; か.る,16,
+蓑,2354,2442,straw raincoat,straw raincoat,,サ; サイ,みの,13,
+苔,2356,2443,moss,moss,,タイ,こけ; こけら,8,
+蕩,2357,2444,prodigal,prodigal,,トウ,とろ.かす; とろ.ける; うご.く,15,
+蔓,2359,2445,tendril,tendril,,マン; バン,はびこ.る; つる,14,
+蓮,2360,2446,lotus,lotus,,レン,はす; はちす,13,N1
+芙,2361,2447,lotus flower,lotus flower,,フ,,7,N1
+蓉,2362,2448,lotus blossom,lotus blossom,,ヨウ,,13,N1
+蘭,2363,2449,orchid,orchid,,ラン; ラ,,19,N1
+芦,2364,2450,hollow reed,hollow reed,,ロ,あし; よし,7,
+薯,2365,2451,yam,yam,,ショ,いも,16,
+菖,2366,2452,iris,iris,,ショウ,,11,N1
+蕉,2367,2453,banana,banana,,ショウ,,15,N1
+蕎,2369,2454,buckwheat,buckwheat,,キョウ,そば,15,
+蕗,2370,2455,butterbur,butterbur,,ロ; ル,ふき,16,N1
+茄,2372,2456,eggplant,eggplant,,カ,,8,N1
+蔭,2374,2457,behind the scenes,behind the scenes,,イン; オン,かげ,14,
+蓬,2375,2458,wormwood,wormwood,,ホウ; ブ,よもぎ,13,
+芥,2376,2459,mustard,mustard,,カイ; ケ,からし; ごみ; あくた,7,
+萌,2377,2460,germinate,germinate,,ホウ,も.える; きざ.す; めばえ; きざ.し,11,N1
+葡,2378,2461,grape,grape,,ブ; ホ,,12,
+萄,2379,2462,grape vine,grape vine,,ドウ; トウ,,11,
+蘇,2380,2463,resurrect,resurrect,,ソ; ス,よみがえ.る,19,
+蕃,2381,2464,grow wild,grow wild,,バン; ハン,,15,
+苓,2382,2465,cocklebur,cocklebur,,レイ; リョウ,みみなぐさ,8,
+菰,2383,2466,rush mat,rush mat,,コ,こも; まこも,12,
+蒙,2384,2467,darken,darken,,モウ; ボウ,こうむ.る; おお.う; くら.い,13,
+茅,2385,2468,grassy reed,grassy reed,,ボウ; ミョウ,かや; ちがや,8,N1
+芭,2386,2469,plantain,plantain,,バ; ハ,,7,
+苅,2387,2470,mow,mow,,ガイ; カイ,か.る,7,
+葱,2389,2471,onion,onion,,ソウ,ねぎ,12,
+葵,2391,2472,hollyhock,hollyhock,,キ,あおい,12,N1
+葺,2392,2473,shingling,shingling,,シュウ,あし; ふ.く; ふき,12,
+蕊,2393,2474,stamen,stamen,,ズイ,しべ,15,
+茸,2394,2475,mushroom,mushroom,,ジョウ; ニュ,きのこ; たけ; しげ.る,9,
+蒔,2395,2476,sowing,sowing,,シ; ジ,う.える; ま.く,13,N1
+芹,2396,2477,parsley,parsley,,キン,せり,7,N1
+苫,2397,2478,thatching,thatching,,セン,とま,8,
+蒼,2399,2479,pale blue,pale blue,,ソウ,あお.い,13,N1
+藁,2400,2480,straw,straw,,コウ,わら,17,
+蕪,2401,2481,turnip,turnip,,ブ; ム,かぶ; かぶら; あれる,15,
+藷,2402,2482,sweet potato,sweet potato,,ショ; ジョ,いも,18,
+薮,2403,2483,quack,quack,,ソウ,やぶ,16,
+蒜,2404,2484,garlic,garlic,,サン,にんにく; ひる; のびる,13,
+蕨,2405,2485,bracken,bracken,,ケツ,わらび,15,
+蔚,2406,2486,grow plentiful,grow plentiful,,ウツ; イ,うち; おとこよもぎ,14,
+茜,2407,2487,madder red,madder red,,セン,あかね,9,N1
+莞,2408,2488,candle rush,candle rush,,カン,い,10,N1
+蒐,2409,2489,collector,collector,,シュウ,あかね; あつ.まる; あつ.める,13,
+菅,2410,2490,sedge,sedge,,カン; ケン,すげ,11,
+葦,2411,2491,ditch reed,ditch reed,,イ,あし; よし; しお.れる; しな.びる; しぼ.む; な.える,13,
+迪,2412,2492,Way,Way,,テキ,みち; みちび.く; すす.む; いた.る,8,N1
+辿,2413,2493,track down,track down,,テン,たど.る; たどり,6,
+這,2414,2494,crawl,crawl,,シャ; ゲン,は.う; は.い; むか.える; この,10,
+迂,2415,2495,detour,detour,,ウ,,6,
+遁,2416,2496,elude,shirk,,トン; シュン,のが.れる,12,
+逢,2417,2497,tryst,tryst,,ホウ,あ.う; むか.える,10,
+遥,2418,2498,far off,far off,,ヨウ,はる.か,12,N1
+遼,2419,2499,remote,faraway,,リョウ,,15,N1
+逼,2420,2500,pressing,pressing,,フク; ヒツ; ヒョク; ヒキ,せま.る; むかばき,12,
+迄,2421,2501,until,until,,キツ,まで; およ.ぶ,6,
+逗,2423,2502,standstill,standstill,,トウ; ズ,とど.まる,10,
+鄭,2425,2503,courtesy,courtesy,,テイ; ジョウ,,15,
+隕,,2504,,falling,,イン; エン; ウン,おち.る,13,
+隈,2427,2505,nook,nook,,ワイ; エ,くま; すみ,12,
+憑,2428,2506,possessed,possessed,,ヒョウ,つ.く; つか.れる; よ.る; たの.む,16,
+惹,2429,2507,attract,attract,,ジャク; ジャ,ひ.く,12,
+悉,2430,2508,without exception,without exception,,シツ; シチ,つ.きる; ことごと; ことごと.く; つ.くす; つぶさ.に,11,
+忽,2431,2509,instantaneously,instantaneously,,コツ,たちま.ち; ゆるが.せ,8,
+惣,2432,2510,firstborn son,firstborn son,,ソウ,すべ.て,12,N1
+愈,2433,2511,in the nick of time,in the nick of time,,ユ,いよいよ; まさ.る,13,
+恕,2434,2512,sensitive,sensitive,,ジョ; ショ,ゆる.す,10,N1
+昴,2435,2513,overarching,overarching,,コウ; ボウ,すばる,9,N1
+晋,2436,2514,progress,progress,,シン,すす.む,10,N1
+晟,2438,2515,aglow,aglow,,セイ; ジョウ,あきらか,10,N1
+暈,2439,2516,halo,halo,,ウン,ぼか.す; ぼけ.る; かさ; くま; ぼかし; めまい,13,
+暉,2440,2517,glitter,glitter,,キ,かが.やく,13,N1
+旱,2441,2518,dry weather,dry weather,,カン,ひでり,7,
+晏,2442,2519,clear skies,clear skies,,アン,おそ.い,10,N1
+晨,2443,2520,morrow,morrow,,シン,あした; とき; あさ,11,N1
+晒,2444,2521,bleaching,bleaching,,サイ; シ,さら.す; さらし,10,
+晃,2446,2522,limpid,limpid,,コウ,あきらか,10,N1
+曝,2447,2523,air out,air out,,バク; ホク; ボク,さら.す,19,
+曙,2448,2524,dawn,dawn,,ショ,あけぼの,17,N1
+昂,2449,2525,elevate,elevate,,コウ; ゴウ,あ.がる; たか.い; たか.ぶる,8,N1
+昏,2451,2526,dusk,dusk,,コン,くら.い; くれ,8,
+晦,2452,2527,last day of the month,last day of the month,,カイ,つごもり; くら.い; みそか; くら.む,10,
+膿,2455,2528,pus,pus,,ノウ; ドウ,う.む; うみ,17,
+腑,2456,2529,viscera,viscera,,フ,はらわた,12,
+胱,2457,2530,bladder,bladder,,コウ,,10,
+胚,2458,2531,embryo,embryo,,ハイ,はらみ; はら.む,9,
+肛,2459,2532,anus,anus,,コウ,,7,
+脆,2462,2533,fragile,fragile,,ゼイ; セイ; セツ,もろ.い; よわい,10,
+肋,2463,2534,rib,rib,,ロク,あばら,6,
+腔,2465,2535,body cavity,body cavity,,コウ,,12,
+肱,2469,2536,armrest,armrest,,コウ,かいな; ひじ; まるい,8,
+胡,2470,2537,uncivilized,uncivilized,,ウ; コ; ゴ,なんぞ,9,N1
+楓,2471,2538,maple tree,maple tree,,フウ,かえで,13,N1
+楊,2473,2539,purple willow,purple willow,,ヨウ,やなぎ,13,N1
+椋,2474,2540,Oriental elm,Oriental elm,,リョウ,むく,12,N1
+榛,2475,2541,hazel,hazel,,シン; ハン,はしばみ; はり,14,N1
+櫛,2476,2542,comb,comb,,シツ,くし; くしけず.る,17,
+槌,2477,2543,wooden hammer,wooden hammer,,ツイ,つち,13,
+樵,2478,2544,mallet,mallet,,ショウ,きこ.る; こ.る; きこり,16,
+梯,2479,2545,ladder,ladder,,テイ; タイ,はしご,11,
+柑,2482,2546,citrus tree,citrus tree,,コン; カン,,9,
+杭,2484,2547,picket,picket,,コウ,くい,8,
+柊,2485,2548,holly,holly,,シュ; シュウ,ひいらぎ,9,N1
+柚,2486,2549,citron,citron,,ユ; ユウ; ジク,ゆず,9,N1
+椀,2487,2550,wooden bowl,wooden bowl,,ワン,はち,12,
+栂,2488,2551,hemlock,hemlock,,,つが; とが,9,
+柾,2489,2552,spindle tree,spindle tree,,,まさ; まさめ; まさき,9,N1
+榊,2490,2553,sacred Shinto tree,sacred tree,,,さかき,13,
+樫,2491,2554,evergreen oak,evergreen oak,,,かし,16,
+槙,2492,2555,Chinese black pine,black pine,,テン; シン,まき; こずえ,14,N1
+楢,2493,2556,Japanese oak,Japanese oak,,シュウ; ユウ,なら,13,
+橘,2494,2557,mandarin orange,mandarin orange,,キツ,たちばな,16,N1
+桧,2495,2558,Japanese cypress,Japanese cypress,,カイ,ひのき; ひ,10,
+棲,2496,2559,roost,roost,,セイ,す.む,12,
+栖,2497,2560,nestle,nestle,,セイ,す.む,10,
+桔,2499,2561,bellflower,bellflower,,キツ; ケツ,,10,
+杜,2500,2562,temple grove,temple grove,,ト; トウ; ズ,もり; ふさ.ぐ; やまなし,7,N1
+杷,2501,2563,grain rake,grain rake,,ハ,つか,8,
+梶,2502,2564,oar,oar,,ビ,かじ; こずえ,11,
+杵,2503,2565,wooden pestle,wooden pestle,,ショ; ソ,きね,8,
+杖,2504,2566,cane,cane,,ジョウ,つえ,7,
+樽,2506,2567,barrel,barrel,,ソン,たる,16,
+櫓,2508,2568,turret,turret,,ロ,やぐら; おおだて,19,
+橿,2509,2569,sturdy oak,sturdy oak,,キョウ,かし; もちのき,17,
+杓,2510,2570,wooden ladle,wooden ladle,,シャク; チョウ; テキ; ヒョウ,ひしゃく,7,
+李,2511,2571,damson,damson,,リ,すもも,7,N1
+棉,2512,2572,raw cotton,raw cotton,,メン,わた,12,
+楯,2513,2573,escutcheon,escutcheon,,ジュン,たて,13,
+榎,2514,2574,hackberry,hackberry,,カ,えのき,14,
+樺,2515,2575,birch,birch,,カ,かば; かんば,14,N1
+槍,2516,2576,lance,lance,,ソウ; ショウ,やり,14,
+柘,2517,2577,wild mulberry,wild mulberry,,シャ; ジャク,そ; つげ; やまぐわ,9,
+梱,2518,2578,bale,bale,,コン,こう.る; こうり; こり; しきみ,11,
+枇,2519,2579,loquat,loquat,,ビ; ヒ,,8,
+樋,2520,2580,downspout,downspout,,トウ,ひ; とい,14,
+橇,2521,2581,sled,sled,,キョウ; ゼイ; セイ,そり; かんじき,16,
+槃,2522,2582,enjoyment,enjoyment,,ハン,たら.い,14,
+栞,2523,2583,bookmark,bookmark,,カン,しおり,10,N1
+椰,2524,2584,coconut tree,coconut tree,,ヤ,やし,13,N1
+檀,2525,2585,sandalwood,sandalwood,,ダン; タン,まゆみ,17,N1
+樗,2526,2586,plotosid,sumac,,チョ,おおち; おうち,15,
+槻,2527,2587,zelkova,zelkova,,キ,つき,15,N1
+椙,2528,2588,cryptomeria,cryptomeria,,,すぎ,12,
+彬,2529,2589,copious,copious,,ヒン; フン,うるわ.しい; あき.らか,11,N1
+桶,2530,2590,bucket,bucket,,ヨウ; トウ,おけ,11,
+楕,2531,2591,ellipse,ellipse,,ダ; タ,,13,
+樒,2532,2592,star-anise,star-anise,,ミツ,しきみ; じんこう,15,
+毬,2533,2593,furball,furball,,キュウ,いが; まり,11,N1
+燿,2534,2594,twinkle,twinkle,,ヨウ,かがや.く; ひかり,18,N1
+燎,2535,2595,watchfire,watchfire,,リョウ,かがりび,16,N1
+炬,2536,2596,torch,torch,,コ; キョ,,9,
+焚,2537,2597,kindle,kindle,,フン; ホン; ハン,た.く; や.く; やきがり,12,
+灸,2538,2598,moxa,moxa,,キュウ; ク,やいと,7,
+煽,2540,2599,fanning,fanning,,セン,あお.る; おだ.てる; おこ.る,14,
+煤,2541,2600,soot,soot,,バイ; マイ,すす,13,
+煉,2542,2601,firing,firing,,レン,ね.る,12,
+燦,2543,2602,dazzling,dazzling,,サン,さん.たる; あき.らか; きらめ.く; きら.めく,17,N1
+灼,2544,2603,refulgent,refulgent,,シャク,あらた; やく,7,
+烙,2545,2604,branding,branding,,ラク; カク,や.く,10,
+焔,2546,2605,flames,flames,,エン,ほのお,11,
+烹,2549,2606,stew,stew,,ホウ,に.る,11,
+牽,2550,2607,tug,tug,,ケン,ひ.く,11,
+牝,2551,2608,female animal,female animal,,ヒン,めす; め-; めん,6,
+牡,2552,2609,male animal,male animal,,ボ; ボウ,おす; お-; おん-,7,
+琳,2554,2610,chime,chime,,リン,,12,N1
+琉,2557,2611,lapis lazuli,lapis lazuli,,リュウ; ル,,11,N1
+瑳,2559,2612,burnish,burnish,,サ,みが.く,14,N1
+琢,2560,2613,hone,hone,,タク,みが.く,11,N1
+珊,2561,2614,coral,coral,,サン,センチ; さんち,9,
+瑚,2562,2615,coral reef,coral reef,,コ; ゴ,,13,N1
+瑞,2563,2616,fortunate,fortunate,,ズイ; スイ,みず-; しるし,13,N1
+玖,2565,2617,jet,jet,,キュウ; ク,,7,N1
+瑛,2566,2618,crystal stone,crystal stone,,エイ,,12,N1
+玲,2568,2619,tinkling,tinkling,,レイ,,9,N1
+畢,2570,2620,lastly,lastly,,ヒツ,おわ.る; あみ; おわ.り; ことごとく,11,
+畦,2571,2621,paddy-field ridge,paddy-field ridge,,ケイ,あぜ; うね,11,
+痒,2572,2622,itch,itch,,ヨウ,かゆ.がる; かさ; かゆ.い,11,
+痰,2573,2623,phlegm,phlegm,,タン,,13,
+疹,2574,2624,measles,measles,,シン; チン,はしか,10,
+痔,2575,2625,hemorrhoids,hemorrhoids,,ヂ; ジ,しもがさ,11,
+癌,2576,2626,cancer,cancer,,ガン,,17,
+痺,2579,2627,paralysis,paralysis,,ヒ,しび.れる,13,
+眸,2580,2628,apple of the eye,apple of the eye,,ボウ; ム,ひとみ,11,N1
+眩,2581,2629,dizzy,dizzy,,ゲン; カン,げん.す; くるめ.く; まぶ.しい; くら.む; まど.う; めま.い; まばゆ.い; くれ.る; ま.う,10,
+雉,2584,2630,pheasant,pheasant,,ジ; チ,きじ,13,
+矩,2585,2631,carpenter’s square,carpenter’s square,,ク,かね; かねざし; さしがね,10,
+磐,2586,2632,crag,crag,,バン; ハン,いわ,15,
+碇,2587,2633,grapnel,grapnel,,テイ,いかり,13,
+碧,2588,2634,blue-green,blue-green,,ヘキ; ヒャク,,14,N1
+硯,2589,2635,inkstone,inkstone,,ケン; ゲン,すずり,12,
+砥,2590,2636,grindstone,grindstone,,シ; テイ; キイ; チ,と; といし; と.ぐ; みが.く,10,
+碗,2591,2637,teacup,teacup,,ワン,こばち,13,
+碍,2592,2638,obstacle,obstacle,,ガイ; ゲ,さまた.げる,13,
+碩,2593,2639,illustrious,illustrious,,セキ,おお.きい,14,N1
+磯,2594,2640,rocky beach,rocky beach,,キ,いそ,17,N1
+砺,2595,2641,whetstone,whetstone,,レイ,あらと; みが.く,10,
+碓,2596,2642,mill,mill,,カク; タイ,たし.か; かく.たる,13,
+禦,2597,2643,fend off,fend off,,ギョ; ゴ,ふせ.ぐ,17,
+祷,2598,2644,beseech,beseech,,トウ,いの.る; いの.り; まつ.る,11,
+祐,2599,2645,ancestral tablet,ancestral tablet,,ユウ; ウ,たす.ける,9,N1
+祇,2600,2646,local god,local god,,ギ; キ; シ,くにつかみ; ただ; まさに,8,
+祢,2601,2647,ancestral shrine,ancestral shrine,,ネ; デイ; ナイ,,9,
+禄,2602,2648,salarium,salarium,,ロク,さいわ.い; ふち,12,N1
+禎,2603,2649,felicitation,felicitation,,テイ,さいわ.い,13,N1
+秤,2604,2650,balancing scales,balancing scales,,ショウ; ヒン; ビン,はかり,10,
+黍,2605,2651,millet,millet,,ショ,きび,12,
+禿,2606,2652,bald,bald,,トク,ちび.る; かむろ; は.げる; はげ,7,
+稔,2607,2653,bear fruit,bear fruit,,ネン; ジン; ニン,みの.る; みのり,13,N1
+稗,2608,2654,crabgrass,crabgrass,,ハイ; ヒ,ひえ,14,
+穣,2609,2655,bumper crop,bumper crop,,ジョウ,わら; ゆたか,18,N1
+稜,2610,2656,imperial authority,imperial authority,,リョウ; ロウ,いつ; かど,13,N1
+稀,2611,2657,sparse,sparse,,キ; ケ,まれ; まばら,12,N1
+穆,2612,2658,obeisant,obeisant,,ボク; モク,やわ.らぐ,16,
+窺,2613,2659,peep,peep,,キ,うかが.う; のぞく,16,
+窄,2614,2660,tight,tight,,サク,すぼ.める; つぼ.める; せま.い,10,
+穿,2616,2661,drill,drill,,セン,うが.つ; は.く,10,
+竃,2617,2662,kitchen stove,kitchen stove,,ソウ,かまど; かま; へっつい,17,
+竪,2618,2663,longness,longness,,ジュ,たて; た.てる; こども,14,
+颯,2619,2664,rustling,rustling,,サツ; ソウ,さっ.と,14,N1
+站,2620,2665,outpost,outpost,,タン,た.つ; たたず.む; えき,10,
+靖,2621,2666,repose,repose,,セイ; ジョウ,やす.んじる,13,N1
+妾,2622,2667,concubine,concubine,,ショウ,めかけ; そばめ; わらわ,8,
+衿,2623,2668,lapel,lapel,,キン; コン,えり,9,N1
+袷,2625,2669,lined kimono,lined kimono,,コウ; キョウ,あわせ,11,
+袴,2626,2670,pleated skirt,pleated skirt,,コ; ク,はかま; ずぼん,11,
+襖,2627,2671,sliding door,sliding door,,オウ,ふすま; あお,17,
+笙,2628,2672,Chinese panpipe,Chinese panpipe,,ショウ; ソウ,ふえ,11,N1
+筏,2629,2673,raft,raft,,バツ; ハツ; ボチ,いかだ,12,
+簾,2630,2674,bamboo blinds,bamboo blinds,,レン,すだれ; す,19,
+箪,2631,2675,rattan box,rattan box,,タン,はこ,15,
+竿,2632,2676,pole,pole,,カン,さお,9,
+箆,2633,2677,spatula,spatula,,ヘイ; ハイ,へら; の; くし,14,
+箔,2634,2678,foil,foil,,ハク,すだれ,14,
+笥,2635,2679,wardrobe,wardrobe,,ス; シ,け; はこ,11,
+箭,2636,2680,arrow shaft,arrow shaft,,セン,や,15,
+筑,2637,2681,ancient harp,ancient harp,,チク,,12,
+篠,2639,2682,slender bamboo,slender bamboo,,ゾウ; ショウ,しの; ささ; すず,17,
+纂,2641,2683,redaction,redaction,,サン,あつ.める,20,
+竺,2642,2684,bamboo cane,bamboo cane,,ジク; チク; トク,,8,
+箕,2643,2685,winnowing fan,winnowing fan,,キ,み,14,
+笈,2644,2686,backpack,backpack,,キュウ,,9,
+篇,2645,2687,livraison,livraison,,ヘン,,15,
+筈,2646,2688,should,should,,カツ,はず; やはず,12,
+簸,2647,2689,winnow,winnow,,ハ,ひ.る,19,
+粕,2648,2690,settlings,settlings,,ハク,かす,11,
+糟,2649,2691,lees,lees,,コウ; ソウ,ぬか,17,
+糊,2650,2692,paste,paste,,コ; ゴ; コツ,のり,15,
+籾,2651,2693,unhulled rice,unhulled rice,,,もみ,9,
+糠,2652,2694,rice bran,rice bran,,コウ,ぬか,17,
+糞,2653,2695,excrement,excrement,,フン,くそ,17,
+粟,2654,2696,foxtail millet,foxtail millet,,ゾク; ショク; ソク,あわ; もみ,12,
+繋,2655,2697,link up,link up,,ケイ,つな.ぐ; かか.る; か.ける,17,
+綸,2656,2698,twine,twine,,リン; カン,いと,14,N1
+絨,2657,2699,carpet yarn,carpet yarn,,ジュウ,,12,
+絆,2658,2700,ties,ties,,ハン,きずな; ほだ.す; つな.ぐ,11,
+緋,2659,2701,scarlet,scarlet,,ヒ,あけ; あか,14,N1
+綜,2660,2702,synthesis,synthesis,,ソウ,おさ.める; す.べる,14,N1
+紐,2661,2703,string,string,,チュウ; ジュウ,ひも,10,
+紘,2662,2704,chinstrap,chinstrap,,コウ,おおづな; つな; つなぐ,10,N1
+纏,2663,2705,summarize,summarize,,テン; デン,まつ.わる; まと.う; まと.める; まと.まる; まと.い,21,
+絢,2664,2706,gorgeous,gorgeous,,ケン,,12,N1
+繍,2665,2707,embroidery,embroidery,,シュウ,ぬいとり,17,
+紬,2666,2708,pongee,pongee,,チュウ,つむぎ; つむ.ぐ,11,N1
+綺,2667,2709,ornate,ornate,,キ,あや,14,N1
+綾,2668,2710,damask,damask,,リン,あや,14,N1
+絃,2669,2711,catgut,catgut,,ゲン,いと,11,N1
+縞,2671,2712,stripe,stripe,,コウ,しま; しろぎぬ,16,
+綬,2672,2713,gimp,gimp,,ジュ,ひも,14,
+紗,2673,2714,gossamer,gossamer,,サ; シャ,うすぎぬ,10,N1
+舵,2674,2715,rudder,rudder,,ダ; タ,かじ,11,
+聯,2676,2716,strung together,strung together,,レン,つら.なる; つら.ねる,17,
+聡,2677,2717,attentive,attentive,,ソウ,さと.い; みみざと.い,14,N1
+聘,2678,2718,summons,summons,,ヘイ,へい.する; と.う; め.す,13,
+耽,2679,2719,addiction,addiction,,タン,ふけ.る,10,
+耶,2680,2720,exclamation,exclamation,,ヤ; ジャ,か,9,N1
+蚤,2681,2721,flea,flea,,ソウ,のみ; はやい,10,
+蟹,2682,2722,crab,crab,,カイ,かに,19,
+蛋,2683,2723,protein,protein,,タン,,11,
+蟄,2684,2724,hibernation,hibernation,,チツ; チュウ,ちっ.する; かく.れる,17,
+蝿,2685,2725,housefly,housefly,,ヨウ,はえ; はい,15,
+蟻,2686,2726,ant,ant,,ギ,あり,19,
+蝋,2688,2727,wax,wax,,ロウ,みつろう; ろうそく,14,
+蝦,2689,2728,shrimp,shrimp,,カ; ゲ,えび,15,
+蛸,2690,2729,octopus,octopus,,ソウ; ショウ,たこ,13,
+螺,2691,2730,screw,screw,,ラ,にし; にな,17,
+蝉,2692,2731,cicada,cicada,,セン; ゼン,せみ,15,
+蛙,2693,2732,frog,frog,,ア; ワ,かえる; かわず,12,
+蛾,2694,2733,moth,moth,,ギ; ガ,ひむし,13,
+蛤,2695,2734,clam,clam,,コウ,はまぐり,12,
+蛭,2696,2735,leech,leech,,シツ; チツ,ひる,12,
+蛎,2697,2736,oyster,oyster,,レイ,かき,11,
+罫,2698,2737,ruled lines,ruled lines,,ケイ; カイ; ケ,,13,
+袈,2700,2738,stole,stole,,ケ; カ,,11,N1
+裟,2701,2739,monk’s sash,monk’s sash,,サ; シャ,,13,N1
+截,2703,2740,incision,incision,,セツ; サイ,き.る; た.つ,14,
+哉,2704,2741,I wonder,I wonder,,サイ,かな; や,9,N1
+詢,2705,2742,counsel,counsel,,ジュン; シュン,はか.る; まこと,13,N1
+諄,2706,2743,polite,polite,,シュン,ひちくど.い; くど.い; くどくど; ねんご.ろ,15,N1
+讐,2707,2744,vendetta,vendetta,,シュウ,あだ; むく.いる; あ.たる,23,
+諌,2708,2745,remonstrate,remonstrate,,カン,いさ.め; いさ.める,15,
+諒,2710,2746,verify,verify,,リョウ,あきら.か; まことに,15,N1
+讃,2711,2747,compliment,compliment,,サン,ほ.める; たた.える,22,
+訊,2713,2748,query,query,,ジン; シュン; シン,き.く; と.う; たず.ねる,10,
+訣,2714,2749,split up,split up,,ケツ,わかれ; わかれ.る,11,
+詫,2721,2750,beg pardon,beg another’s pardon,,タ,わび; わび.しい; かこつ; わ.びる; わび.る,13,
+誼,2719,2751,familiarity,familiarity,,ギ,よしみ; よい,15,N1
+謬,2720,2752,fallible,fallible,,ビュウ; ビョウ; ミュウ,あやま.る,18,
+訝,,2753,,wary,,ガ; ゲ,いぶか.る,12,
+諺,2723,2754,proverb,proverb,,ゲン,ことわざ,16,
+誹,2724,2755,slander,slander,,ヒ; ハイ,そし.る,15,
+謂,2725,2756,so-called,so-called,,イ,い.う; いい; おも.う; いわゆる,16,
+諜,2726,2757,secret agent,secret agent,,チョウ,ちょう.ずる; うかが.う; しめ.す,16,
+註,2727,2758,footnote,footnote,,チュウ,,12,
+譬,2728,2759,parable,parable,,ヒ,たと.える; たと.え,20,
+轟,2729,2760,rumble,rumble,,ゴウ; コウ,とどろ.かす; とどろ.く,21,
+輔,2730,2761,reinforce,reinforce,,ホ; フ,たす.ける,14,N1
+輻,2731,2762,spoke,spoke,,フク,や,16,
+輯,2732,2763,assemble,assemble,,シュウ,あつ.める; やわ.らぐ,16,
+豹,2734,2764,panther,panther,,ヒョウ; ホウ,,10,
+賎,2735,2765,despicable,despicable,,セン; ゼン,いや.しい; いや.しむ; いや.しめる; しず; やす.い,13,
+貰,2737,2766,get,get,,セイ; シャ,もら.う,12,
+賑,2739,2767,bustling,bustling,,シン,にぎ.わい; にぎ.やか; にぎ.わす; にぎ.わう,14,
+贖,,2768,,expiate,,ショク,あがな.う,22,
+躓,2740,2769,stumble,stumble,,チ,つまず.く,22,
+蹄,2741,2770,hoof,hoof,,テイ,ひづめ,16,
+蹟,2743,2771,vestiges,vestiges,,セキ; シャク,あと,18,
+跨,2744,2772,straddle,straddle,,コ; カ,また.がる; またが.る; また.ぐ,13,
+跪,2745,2773,kneel,kneel,,キ,ひざまず.く,13,
+醤,2746,2774,soy sauce,soy sauce,,ショウ,ひしお,17,
+醍,2747,2775,whey,whey,,ダイ; タイ; テイ,,16,
+醐,2749,2776,ghee,ghee,,ゴ; コ,,16,
+醇,2751,2777,strong sake,strong sake,,ジュン; シュン,もっぱら; こい; あつい,15,
+麹,2753,2778,malt,malt,,キク,こうじ,15,
+釦,2754,2779,button,button,,コウ; ク,ぼたん,11,
+銚,2755,2780,keg,keg,,チョウ; ヨウ,なべ,14,
+鋤,2756,2781,plow,plow,,ジョ; ショ; ソ,す.く; すき; くわ,15,
+鋸,2759,2782,hand saw,hand saw,,キョ; コ,のこ; のこぎり,16,
+錐,2760,2783,awl,awl,,スイ,きり,16,
+鍬,2762,2784,hoe,hoe,,ショウ; シュウ,くわ; すき,17,
+鋲,2763,2785,rivet,rivet,,,びょう,15,
+錫,2764,2786,tin,tin,,セキ; シャク,すず; たま.う,16,
+錨,2765,2787,anchor,anchor,,ビョウ; ミョウ,いかり,16,
+釘,2766,2788,nail,nail,,テイ; チョウ,くぎ,10,
+鑓,2767,2789,javelin,javelin,,,やり,21,
+鋒,2768,2790,sword’s point,sword’s point,,ホウ,きっさき; とかり; ほこさき,15,
+鎚,2769,2791,hammer,hammer,,ツイ; タイ,つち,17,
+鉦,2770,2792,carillion,carillion,,セイ; ショウ,かね,13,
+錆,2771,2793,rust,rust,,ショウ; セイ,さび; くわ.しい,16,
+鍾,2772,2794,cluster,cluster,,ショウ; シュ,あつ.める; さかずき; かね,17,
+鋏,2773,2795,scissors,scissors,,キョウ,はさみ; はさ.む; つるぎ,15,
+閃,2774,2796,flash,flash,,セン,ひらめ.く; ひらめ.き; うかが.う,10,
+悶,2775,2797,agony,agony,,モン,もだ.える; もだえ.る,12,
+閤,2776,2798,side gate,side gate,,コウ,くぐりど,14,
+雫,2778,2799,trickle,trickle,,ダ,しずく,11,
+霞,2779,2800,haze,haze,,カ; ゲ,かすみ; かす.む,17,N1
+翰,2780,2801,quill,quill,,カン,はね; ふで; やまどり; ふみ,16,
+斡,2781,2802,auspices,auspices,,アツ; カン; ワツ,めぐ.る; めぐ.らす,14,
+鞍,2782,2803,saddle,saddle,,アン,くら,15,
+鞭,2783,2804,whip,whip,,ベン; ヘン,むち; むちうつ,18,
+鞘,2784,2805,saddle straps,saddle straps,,ショウ; ソウ,さや,16,
+鞄,2785,2806,briefcase,briefcase,,ハク; ホウ; ビョウ,かばん,14,
+靭,2786,2807,pliable,pliable,,ジン; ニン; サ; サイ; サツ,うつぼ; しな.やか; ゆぎ,12,
+鞠,2787,2808,terminate,terminate,,キク; キュウ,まり,17,N1
+顛,2789,2809,overturn,overturn,,テン,いただき; たお.れる,19,
+穎,2790,2810,brush tip,brush tip,,エイ,ほさき; のぎ,16,
+頗,2793,2811,exceedingly,exceedingly,,ハ,すこぶ.る; かたよ.る,14,
+頌,2794,2812,accolade,accolade,,ショウ; ジュ; ヨウ,かたち; たた.える; ほめ.る,13,N1
+頚,2796,2813,neck and throat,neck and throat,,ケイ,くび,14,
+餐,2798,2814,repast,repast,,サン; ソン,の.む; くら.う,16,
+饗,2799,2815,feast,feast,,キョウ,う.ける; もてな.す,22,
+蝕,2800,2816,eclipse,eclipse,,ショク,むしば.む,14,
+飴,2801,2817,sweets,sweets,,イ; シ,あめ; やしな.う,13,
+駕,2803,2818,stretcher,stretcher,,カ; ガ,かご; が.する; しのぐ; のる,15,
+騨,2804,2819,piebald,piebald,,タン; ダン; タ; ダ; テン,,19,
+馳,2805,2820,rush,rush,,チ; ジ,は.せる,13,
+騙,2806,2821,cheat,cheat,,ヘン,かた.る; だま.す,19,
+馴,2807,2822,tame,tame,,ジュン; シュン; クン,な.れる; な.らす; したが.う,13,
+駁,2808,2823,rebuttal,rebuttal,,ハク; バク,ぶち; まじ.る; まだら,14,
+駈,2809,2824,gallop,gallop,,ク,か.ける; か.る,15,
+驢,2810,2825,donkey,donkey,,ロ; リョ,うさぎうま,26,
+鰻,2811,2826,eel,eel,,マン; バン,うなぎ,22,
+鯛,2812,2827,sea bream,sea bream,,チョウ,たい,19,N1
+鰯,2813,2828,sardine,sardine,,,いわし,21,
+鱒,2814,2829,trout,trout,,ソン; セン; ザン,ます,23,
+鮭,2815,2830,salmon,salmon,,カイ; ケイ,さけ; しゃけ; ふぐ,17,
+鮪,2816,2831,tuna,tuna,,キ; ユウ; イ,まぐろ; しび,17,
+鮎,2817,2832,sweet smelt,sweet smelt,,デン; ネン,あゆ; なまず,16,N1
+鯵,2818,2833,horse mackerel,horse mackerel,,ソウ,あじ,19,
+鱈,2819,2834,cod,cod,,セツ,たら,22,
+鯖,2820,2835,mackerel,mackerel,,セイ; ショウ,さば,19,
+鮫,2821,2836,shark,shark,,コウ,さめ; みずち,17,
+鰹,2822,2837,bonito,bonito,,ケン,かつお,23,
+鰍,2823,2838,bullhead,bullhead,,シュウ; シュ,かじか; いなだ; どじょう,20,
+鰐,2824,2839,alligator,alligator,,ガク,わに,20,
+鮒,2825,2840,crucian,crucian carp,,ホ; フ; ブ,ふな,16,
+鮨,2826,2841,sushi,sushi,,シ; キ,すし,17,
+鰭,2827,2842,fish fin,fish fin,,キ; ギ,ひれ,21,
+鴎,2828,2843,seagull,seagull,,オウ,かもめ,15,
+鵬,2829,2844,roc,roc,,ホウ,おおとり,19,N1
+鸚,2830,2845,parakeet,parakeet,,イン; オウ; ヨウ,,28,
+鵡,2831,2846,parrot,parrot,,ブ; ム,,19,
+鵜,2832,2847,cormorant,cormorant,,テイ; ダイ,う,18,
+鷺,2833,2848,heron,heron,,ロ,さぎ,24,
+鷲,2834,2849,eagle,eagle,,シュウ; ジュ,わし,23,
+鴨,2835,2850,wild duck,wild duck,,オウ,かも; あひる,16,
+鳶,2836,2851,kite falcon,black kite,,エン,とび; とんび,14,
+梟,2837,2852,owl,owl,,キョウ,ふくろう,11,
+塵,2838,2853,dust,dust,,チン; ジン,ちり; ごみ,14,
+麒,2840,2854,giraffe,giraffe,,キ,,19,
+舅,2064,2855,father-in-law,father-in-law,,キュウ,しゅうと,13,
+鼠,2065,2856,mouse,mouse,,ソ; ショ,ねずみ; ねず,13,
+鑿,2066,2857,bore,bore,,サク,のみ; うが.つ,28,
+艘,2068,2858,small craft,small craft,,ショウ; シュウ; ソウ,ふね,16,
+瞑,2842,2859,close the eyes,close the eyes,,メイ; ベン; ミョウ; ミン; メン,めい.する; つぶ.る; つむ.る; くら.い,15,
+暝,2843,2860,murky,murky,,メイ; ミョウ,くら.い,14,
+坐,2844,2861,sitting in meditation,sitting in meditation,,ザ; サ,すわ.る; おわす; そぞろに; まします,7,
+朔,2846,2862,first day of the month,first day of the month,,サク,ついたち,10,N1
+曳,2848,2863,drag,tow,,エイ,ひ.く,6,
+洩,2849,2864,dribble out,dribble out,,エイ; セツ,も.らす; の.びる; も.れる,9,
+彗,2850,2865,comet,comet,,スイ; エ; ケイ; セイ,ほうき,11,N1
+慧,2851,2866,astute,astute,,ケイ; エ,さとい,15,N1
+爾,2074,2867,let it be,let it be,,ジ; ニ,なんじ; しかり; その; のみ; おれ; しか,14,N1
+嘉,2852,2868,applaud,applaud,,カ,よみ.する; よい,14,N1
+兇,2853,2869,evil,evil,,キョウ,おそ.れる; わる.い,6,
+兜,2854,2870,helmet,helmet,,トウ; ト,かぶと,11,
+靄,,2871,,mist,,アイ,もや,24,
+劫,2857,2872,kalpa,kalpa,,コウ; ゴウ; キョウ,おびや.かす,7,
+歎,2859,2873,bemoan,bemoan,,タン,なげ.く; なげ.き,14,
+輿,2860,2874,palanquin,palanquin,,ヨ,かご; こし,17,
+歪,2862,2875,warped,warped,,ワイ; エ,いが.む; いびつ; ひず.む; ゆが.む,9,
+翠,2863,2876,jade green,jade green,,スイ,かわせみ; みどり,14,N1
+黛,2864,2877,blue-black,blue-black,,タイ,まゆずみ,16,N1
+鼎,2865,2878,tripod,tripod,,テイ,かなえ,13,
+鹵,2866,2879,rocksalt,rocksalt,,ロ,しお; しおち; たて,11,
+鹸,2867,2880,lye,lye,,ケン; カン; セン,あ.く,19,
+虔,2868,2881,reserved,reserved,,ケン,つつし.む,10,
+燕,2869,2882,swallow,swallow,,エン,つばめ; つばくら; つばくろ,16,
+嘗,2870,2883,lick,lick,,ショウ; ジョウ,かつ.て; こころ.みる; な.める,14,
+殆,2871,2884,almost,almost,,タイ; サイ,ほとほと; ほとん.ど; あやうい,9,
+牌,2873,2885,mahjong tiles,mahjong tiles,,ハイ,ぱい; ふだ,12,
+覗,2875,2886,peek,peek,,シ,のぞ.く; うかが.う,12,
+齟,,2887,,disagree,,ソ; サ; ショ,かむ,20,
+齬,,2888,,discord,,ゴ,,22,
+秦,2877,2889,Manchu dynasty,Manchu dynasty,,シン,はた,10,N1
+雀,2878,2890,sparrow,sparrow,,ジャク; ジャン; サク; シャク,すずめ,11,
+隼,2879,2891,peregrine falcon,peregrine falcon,,シュン; ジュン,はやぶさ,10,N1
+耀,2880,2892,shimmering,shimmering,,ヨウ,かがや.く; ひかり,20,N1
+夷,2881,2893,ebisu,ebisu,,イ,えびす; えみし; ころ.す; たい.らげる,6,
+嚢,2883,2894,cyst,cyst,,ノウ; ドウ,ふくろ,18,
+暢,2885,2895,carefree,carefree,,チョウ,のび.る,14,N1
+廻,2886,2896,circling,circling,,カイ; エ,まわ.る; まわ.す; もとお.る; めぐ.る; めぐ.らす,9,
+欣,2888,2897,elation,elation,,キン; ゴン; コン,よろこ.ぶ; よろこ.び,8,N1
+毅,2889,2898,stalwart,stalwart,,キ; ギ,つよ.い,15,N1
+斯,2890,2899,this,this,,シ,か; こう; か.く; この; これ; ここに,12,
+匙,2891,2900,wooden spoon,wooden spoon,,シ,さじ,11,
+匡,2892,2901,set straight,set straight,,キョウ; オウ,すく.う; ただ.す,6,N1
+肇,2893,2902,founding,founding,,チョウ; ジョウ; トウ,はじ.める; はじめ,14,N1
+麿,2894,2903,Utamaro,Utamaro,,,まろ,18,N1
+叢,2895,2904,conglomerate,conglomerate,,ソウ; ス,くさむら; むら.がる; むら,18,
+肴,2896,2905,entreat,entreat,,コウ,さかな,8,
+斐,2897,2906,symmetrically patterned,symmetrically patterned,,ヒ; イ,,12,N1
+卿,2898,2907,magistrate,magistrate,,ケイ; キョウ,きみ,12,
+翫,2899,2908,fiddle with,fiddle with,,ガン,もてあそ.ぶ,15,
+於,2900,2909,within,within,,オ; ヨ,おい.て; お.ける; ああ; より,8,N1
+套,2901,2910,hackneyed,hackneyed,,トウ,かさ.ねる,10,
+叛,2902,2911,rebellion,rebellion,,ハン; ホン,そむ.く,9,
+尖,2903,2912,sharp point,sharp point,,セン,とが.る; さき; するど.い,6,
+壷,2904,2913,crock,crock,,コ,つぼ,11,
+叡,2905,2914,sapience,sapience,,エイ,あき.らか,16,N1
+酋,2906,2915,chieftain,chieftain,,シュウ; ジュ,おさ; ふるざけ; さけのつかさ,9,
+鴬,2907,2916,nightingale,nightingale,,オウ,うぐいす,16,
+赫,2908,2917,incandescent,incandescent,,カク,あかい; あか; かがや.く,14,
+臥,2909,2918,supinate,supinate,,ガ,ふせ.る; ふ.せる; ふ.す,9,
+甥,2910,2919,nephew,nephew,,セイ; ソウ; ショウ,おい; むこ,12,
+瓢,2911,2920,gourd,gourd,,ヒョウ,ひさご; ふくべ,17,
+琵,2912,2921,biwa,biwa,,ビ; ヒ,,12,
+琶,2913,2922,lute,lute,,ハ; ベ; ワ,,12,
+叉,2914,2923,forked,forked,,サ; シャ; サイ,また,3,
+乖,,2924,,disobey,,カイ,そむ.く; もとる,8,
+畠,2916,2925,dry field,dry field,,,はたけ; はた,10,
+圃,2918,2926,vegetable patch,vegetable patch,,ホ; フ,はたけ; にわ,10,
+丞,2919,2927,helping hand,helping hand,,ジョウ; ショウ,すく.う; たす.ける,6,N1
+亮,2920,2928,translucent,translucent,,リョウ,あきらか,9,N1
+胤,2921,2929,blood relative,blood relative,,イン,たね,9,N1
+疏,2922,2930,transcription,transcription,,ソ; ショ,あら.い; うと.い; うと.む; とお.る; とお.す; まばら,12,
+膏,2923,2931,ointment,ointment,,コウ,あぶら,14,
+魁,2924,2932,pioneer,pioneer,,カイ,さきがけ; かしら,14,N1
+馨,2925,2933,ambrosial,ambrosial,,ケイ; キョウ,かお.る; かおり,20,N1
+牒,2926,2934,label,label,,チョウ; ジョウ,ふだ,13,
+瞥,2927,2935,glimpse,glimpse,,ベツ; ヘツ,,17,
+睾,2929,2936,testicle,testicle,,コウ,,14,
+巫,2930,2937,sorceress,sorceress,,フ,みこ; かんなぎ,7,
+敦,2931,2938,empathetic,empathetic,,トン; タイ; ダン; チョウ,あつ.い,12,N1
+奎,2932,2939,Andromeda,Andromeda,,ケイ; キ,,9,N1
+翔,2933,2940,soar,soar,,ショウ,かけ.る; と.ぶ,12,N1
+皓,2934,2941,beaming,beaming,,コウ,しろ.い; ひか.る,12,N1
+黎,2935,2942,tenebrous,tenebrous,,レイ; リ,くろ.い,15,N1
+赳,2936,2943,bold,bold,,キュウ,,10,N1
+已,2937,2944,stop short,stop short,,イ,や.む; すで.に; のみ; はなはだ,3,
+棘,2938,2945,thornbush,thornbush,,キョク,いばら; とげ,12,
+祟,2945,2946,cast a spell,haunt,,スイ,たた.る; たた.り,10,
+甦,2940,2947,resuscitate,resuscitate,,ソ; コウ,よみがえ.る,12,
+剪,2941,2948,pruning,pruning,,セン,き.る; つ.む,11,
+躾,2942,2949,upbringing,upbringing,,,しつ.ける; しつけ,16,
+夥,2943,2950,plentiful,plentiful,,カ; ワ,おびただ.しい,14,
+鼾,2944,2951,snore,snore,,カン,いびき,17,
+陀,2955,2952,Shakyamuni Buddha,steeply inclined,,タ; ダ; イ; チ; ジ,けわ.しい; ななめ,8,
+粁,2946,2953,kilometer,kilometer,,,キロメートル,9,
+糎,2947,2954,centimeter,centimeter,,,センチ; センチメートル,15,
+粍,2948,2955,millimeter,millimeter,,,ミリ; ミリメートル,10,
+噸,2949,2956,ton,ton,,トン,,16,
+哩,2950,2957,mile,mile,,リ,まいる,10,
+浬,2951,2958,nautical mile,nautical mile,,リ,かいり; のっと,10,
+吋,2952,2959,inch,inch,,トウ; ドウ; スン,インチ,6,
+呎,2953,2960,feet,foot,,シャク,ふいいと,7,
+梵,2954,2961,brahman,brahman,,ボン; フウ,,11,
+薩,2956,2962,bodhisattva,bodhisattva,,サツ; サチ,,17,
+菩,2957,2963,bo tree,bo tree,,ボ,,11,
+唖,2958,2964,babble,babble,,ア; アク,おし,10,
+牟,2961,2965,moo,moo,,ボウ; ム,,6,
+迦,2959,2966,Sanskrit ka,Sanskrit ka,,カ; ケ,,8,
+珈,2962,2967,jeweled hairpin,jeweled hairpin,,カ,かみかざり,9,
+琲,2963,2968,beaded hairpin,beaded hairpin,,ハイ,つらぬく,12,
+檜,2964,2969,Japanese cypress (old),Japanese cypress (old),,カイ,ひのき; ひ,17,
+轡,2965,2970,bridle’s bit,tinkling bell,,ヒ,くつわ; たづな,22,
+淵,2966,2971,abyss (old),abyss (old),,エン; カク; コウ,ふち; かた.い; はなわ,12,
+伍,2967,2972,V,V,,ゴ,いつつ,6,N1
+什,2968,2973,X,X,,ジュウ; シュウ,,4,
+萬,2969,2974,ten thousand (old),ten thousand (old),,マン; バン,よろず,12,
+邁,2970,2975,pass through,pass through,,マイ; バイ,ゆ.く,17,
+燭,2539,2976,candlelight,candlelight,,ソク; ショク,ともしび,17,
+逞,2971,2977,tough,tough,,テイ,たくま.しい,11,
+燈,2972,2978,lamp (old),lamp (old),,トウ,ひ; ほ-; ともしび; とも.す; あかり,16,
+裡,2973,2979,back (old),back (old),,リ,うち; うら,12,
+薗,2974,2980,park (alternate),park (alternate),,エン; オン,,16,
+鋪,2975,2981,shop (alternate),shop (alternate),,ホ; フ,しく; みせ,15,
+嶋,2976,2982,island (alternate),island (alternate),,トウ,しま,14,
+峯,2977,2983,summit (alternate),summit (alternate),,ホウ,みね; ね,10,
+埜,2979,2984,plains (old),plains (old),,ヤ; ショ,の,11,
+龍,2981,2985,dragon (old),dragon (old),,リュウ; リョウ; ロウ,たつ,16,
+寵,2982,2986,patronage,patronage,,チョウ,めぐ.み; めぐ.む,19,
+聾,2983,2987,deafness,deafness,,ロウ,ろう.する; つんぼ; みみしい,22,
+慾,2984,2988,longing (old),longing (old),,ヨク,,15,
+嶽,2987,2989,Point (old),Point (old),,ガク,たけ,17,
+國,2988,2990,country (old),country (old),,コク,くに,11,
+脛,2989,2991,shin,shin,,ケイ,すね; はぎ,11,
+勁,2990,2992,formidable,formidable,,ケイ,つよ.い,9,N1
+祀,2992,2993,enshrine,enshrine,,シ,まつ.る; まつり,8,
+祓,2993,2994,exorcism,exorcism,,フツ; ハイ,はら.う,9,
+躇,2994,2995,dither,dither,,チョ; チャク,ためら.う,19,
+壽,2995,2996,longevity (old),longevity (old),,ジュ; ス; シュウ,ことぶき; ことぶ.く; ことほ.ぐ,14,
+躊,2996,2997,hesitate,hesitate,,チュウ; チュ; シュウ; ジュ,ためら.う,21,
+饅,2998,2998,bean jam,bean jam,,マン,,20,
+嘔,2999,2999,retch,retch,,オウ; ク,は.く; むかつ.く; うた.う,14,
+鼈,3000,3000,snapping turtle,snapping turtle,,ベツ; ヘツ,すっぽん,25,
+亙,2985,,span (old),,,,,,
+亨,3001,,go smoothly,,,,,,
+伶,2112,,minstrel,,,,,,
+佑,2126,,adjutant,,,,,,
+佼,2109,,comely,,,,,,
+侑,3002,,condone,,,,,,
+俣,2127,,fork in a road,,,,,,
+倖,2119,,bliss,,,,,,
+傭,2128,,hire,,,,,,
+僻,2117,,biased,,,,,,
+卜,2103,,augury,,,,,,
+喬,2104,,heaven-high,,,,,,
+孟,2872,,start,,,,,,
+尭,2095,,lofty,,,,,,
+峨,2226,,high mountain,,,,,,
+嵯,2230,,rocky,,,,,,
+巌,2978,,boulder (old),,,,,,
+巽,2861,,southeast,,,,,,
+彪,2876,,mottled,,,,,,
+掟,3007,,mandate,,,,,,
+掠,2247,,pillage,,,,,,
+撹,2257,,churn up,,,,,,
+梧,3003,,parasol tree,,,,,,
+欝,2856,,depressed,,,,,,
+欽,3004,,circumspect,,,,,,
+煕,3005,,cheer,,,,,,
+熔,2547,,fuse metal,,,,,,
+珪,2564,,silicon,,,,,,
+瑶,2553,,precious stone,,,,,,
+甫,2097,,offspring,,,,,,
+籠,3028,,cage (Joyo version),,,,,,
+聚,2939,,crowd,,,,,,
+舘,2980,,Bldg. (old),,,,,,
+舜,2915,,rose of Sharon,,,,,,
+詑,2718,,prevarication,,,,,,
+諏,2722,,advise,,,,,,
+躯,2986,,body (old),,,,,,
+郁,2424,,cultured,,,,,,
+鏑,2758,,arrowhead,,,,,,
